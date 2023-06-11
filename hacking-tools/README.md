@@ -3,7 +3,7 @@
 <img src="alfa.png" alt="Alfa" style="float: right; width: 200px;">
 	<h1>Wifi Card:</h1>
 	<p>The ALFA AWUS036ACH is a bang-for-your-buck wifi card. It works on both 2.4 and 5 GHz bands, and interfaces with your devices over USB-C! With a 802.11ac chipset, it is the best option as a beginner card if you don't mind spending around 70$ on it. The card comes with 2 SMA connections, so you can attach any antennas you want! Personally I have the card permanently set up in my bag connected to a Pi, read about it on the bag section of this repo.</p>
-	[![Buy Now](https://img.shields.io/badge/Buy_Now-black?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/ALFA-AWUS036ACH-%E3%80%90Type-C%E3%80%91-Long-Range-Dual-Band/dp/B08SJC78FH/ref=sr_1_1)
+	<p><a href="https://www.amazon.com/ALFA-AWUS036ACH-%E3%80%90Type-C%E3%80%91-Long-Range-Dual-Band/dp/B08SJC78FH/ref=sr_1_1"><img src="https://img.shields.io/badge/Buy_Now-black?style=for-the-badge&amp;logo=amazon&amp;logoColor=white" alt="Buy Now"></a></p>
 </div>
 ---
 <div style="display: inline-block; height: auto;">
