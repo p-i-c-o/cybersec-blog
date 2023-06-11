@@ -7,6 +7,12 @@
 ---
 <div style="display: inline-block; height: auto;">
 <img src="mac.png" alt="Alfa" style="float: right; width: 200px;">
-	<h1>Primary Laptop:</h1>
-	<p>My primary laptop is the 13-inch MacBook Pro from 2019, it works for all my coding and it has been holding up amazingly since I bought it! I did cheap out on the specs though: RAM: 8gb, Processor: 1.4 GHz Quad-Core Intel Core i5, Storage: 256gb. I backup all my files on an external hard-drive, it's always a good idea to have a backup</p>
+	<h1>Primary Computer:</h1>
+	<p>My primary computer is the 13-inch MacBook Pro from 2019, it works for all my coding and it has been holding up amazingly since I bought it! I did cheap out on the specs though: RAM: 8gb, Processor: 1.4 GHz Quad-Core Intel Core i5, Storage: 256gb. I backup all my files on an external hard-drive, it's always a good idea to have a backup.</p>
+</div>
+---
+<div style="display: inline-block; height: auto;">
+<img src="pi.png" alt="Alfa" style="float: right; width: 200px;">
+	<h1>Secondary Computer:</h1>
+	<p>The Raspberry Pi Zero 2w is my secondary computer. It's perfect for my wifi-scanning needs and has exceeded my expectations. Despite its compact size, it delivers impressive performance: RAM: 512MB, Processor: 1GHz quad-core ARM Cortex-A53. My Pi is set up in my bag with the wifi card so I can remotely connect to it an hack while on the go.</p>
 </div>
