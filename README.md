@@ -6,6 +6,6 @@ Here I will document all of my hacking tools, gadgets, bag setups and books!
 Library of books that you can download for free!!!
 Contain: Hacking, Coding, Malware Analysis, OSINT, etc...
 
-## Bag Stuff
+## [Bag Stuff](bag/README.md)
 
-## Hacking Tools
+## [Hacking Tools](hacking-tools/README.md)
