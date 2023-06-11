@@ -15,5 +15,5 @@
 <h1>Secondary Computer:</h1>
 <img src="pi.png" alt="Alfa" style="float: right; width: 200px;">
 	<p>The Raspberry Pi Zero 2w is my secondary computer. It's perfect for my wifi-scanning needs and has exceeded my expectations. Despite its compact size, it delivers impressive performance: RAM: 512MB, Processor: 1GHz quad-core ARM Cortex-A53. My Pi is set up in my bag with the wifi card so I can remotely connect to it an hack while on the go.</p>
-	<a href="https://www.amazon.de/-/en/ALFA-AWUS036ACH-Ultra-Range-Adapter/dp/B00VEEBOPG/ref=sr_1_1?crid=2MOW6M8IXZDVJ&keywords=ALFA+AWUS036ACH&qid=1686509261&sprefix=alfa+awus036ach%2Caps%2C185&sr=8-1">Amazon (Germany)</a>
+	[![Buy Now](https://img.shields.io/badge/Buy_Now-black?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/ALFA-AWUS036ACH-%E3%80%90Type-C%E3%80%91-Long-Range-Dual-Band/dp/B08SJC78FH/ref=sr_1_1)
 </div>
