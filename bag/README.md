@@ -13,3 +13,6 @@ Here are the cables and general gear I bring with me everyday:
 - 1x 40W Charger (3x USB Type C, 1x USB Type A)
 - 1x USB Type C Hub (Ethernet, HDMI, 3x USB Type A, SD, Micro-SD, USB Type C Power IN)
 - 2x Raspberry Pi Pico (DIY USB Rubber Ducky, check out the project [here](https://github.com/dbisu/pico-ducky))
+
+## Mass Storage
+I deal with and manage a huge amount, so an external hard drive is a no-brainer. I personally carry the LaCie 3TB HDD, it is affordable but has enough space to last you a life time. On it I have a large collection of (legally-obtained) films, tv-shows, podcasts and more. And I have only used about 300gb worth of it!
