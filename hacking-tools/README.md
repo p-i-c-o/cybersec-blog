@@ -13,7 +13,7 @@
 <div style="display: inline-block; height: auto;">
 <h2>Secondary Computer:</h2>
 <img src="pi.png" alt="Alfa" style="float: right; width: 200px;">
-	<p>The Raspberry Pi Zero 2w is my secondary computer. It's perfect for my wifi-scanning needs and has exceeded my expectations. Despite its compact size, it delivers impressive performance: RAM: 512MB, Processor: 1GHz quad-core ARM Cortex-A53. My Pi is set up in my bag with the wifi card so I can remotely connect to it an hack while on the go.</p>
+	<p>The Raspberry Pi Zero 2w is my secondary computer. It's perfect for my wifi-scanning needs and has exceeded my expectations. Despite its compact size, it delivers impressive performance: RAM: 512MB, Processor: 1GHz quad-core ARM Cortex-A53. My Pi is set up in my bag with the wifi card so I can remotely connect to it and hack while on the go.</p>
 
 </div>
 
