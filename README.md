@@ -1,5 +1,3 @@
-# cybersec blog
-
 ## [Books](books/README.md)
 Library of books that you can download for free!!!
 Contain: Hacking, Coding, Malware Analysis, OSINT, etc...
