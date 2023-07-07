@@ -1,4 +1,4 @@
-# USING TELEGRAM FOR PYTHON
+<img src="https://simpleicons.org/icons/telegram.svg" height="40"><p1>USING TELEGRAM FOR PYTHON</p1>
 ### _Telegrams' api gives hackers a new way to communicate with computers_
 _Author: p-i-c-o_
 
