@@ -3,6 +3,8 @@
 _Author: p-i-c-o_
 ![Telegram Banner](telegram-banner.png)
 
+<img src="telegram-banner.png" height="300">
+
 ## INTRO
 Telegrams' api has been used for many things, for example: Chat Bots, News and Updates, Content Delivery, and much much more. However, using Python and a small computer, a hacker can create a bot that can run malicious code.
 Let's create one together.
