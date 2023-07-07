@@ -1,7 +1,7 @@
 # USING TELEGRAM FOR PYTHON
 ### _Telegrams' api gives hackers a new way to communicate with computers_
 _Author: p-i-c-o_
-
+![Telegram Banner](telegram-banner.png)
 ## INTRO
 Telegrams' api has been used for many things, for example: Chat Bots, News and Updates, Content Delivery, and much much more. However, using Python and a small computer, a hacker can create a bot that can run malicious code.
 Let's create one together.
