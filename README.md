@@ -1,5 +1,5 @@
 ## Recent Blog Posts
-- <img src="icons/telegram.svg" height="20"> [Telegram for Hackers](blog/telegram_python.md)
+- [Telegram for Hackers](blog/telegram_python.md)
 
 ## Resources
 - [Books](books/README.md)
