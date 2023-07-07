@@ -1,6 +1,5 @@
-# hackpack
-Welcome to my EDC Setup!
-Here I will document all of my hacking tools, gadgets, bag setups and books!
+# cybersec blog
+This is my cybersec-blog, all my findings, research and resources are here
 
 ## [Books](books/README.md)
 Library of books that you can download for free!!!
