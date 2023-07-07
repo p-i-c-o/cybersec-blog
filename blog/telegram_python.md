@@ -65,7 +65,7 @@ This script will only send the user something back nothing else.
 To create something more dangerous, we can create a command runner, this would let us remotely run a command on the computer hosting this script.
 ```
 if message.text[:4] == "run ":
-  reply = run_command(message.text[3:])
+  reply = run_command(message.text[4:])
 ```
 It's that simple, but remember to define the `run_command()` function, heres one I use.
 ```
@@ -74,3 +74,4 @@ def run_shell_command(command):
   return result.stdout
 ```
 This function will run the command with bash and simply return the command line output.
+The cool thing about this command running piece of code is that it detects if the user started with "run " and runs only what is after that to prevent confusion.
