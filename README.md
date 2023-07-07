@@ -1,3 +1,6 @@
+## Recent Blog Posts
+### [Telegram for Hackers](blog/telegram_python.md)
+
 ## [Books](books/README.md)
 Library of books that you can download for free!!!
 Contain: Hacking, Coding, Malware Analysis, OSINT, etc...
