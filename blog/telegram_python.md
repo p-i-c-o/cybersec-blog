@@ -23,20 +23,12 @@ correct_chat_id = "INSERT YOUR CHAT ID HERE"
 from telegram import Bot, Update
 from telegram.ext import Updater, MessageHandler, filters
 import os, subprocess
-
-
-help_count = 0
-
-
-
-avail_commands = """Available commands:
-*Test 1:* Tests the script
-*Run <command>:* runs a command through the terminal on the host"""
-
 # ------------------ FUNCTIONS ------------------
 def run_shell_command(command):
   result = subprocess.run(command, shell=True, capture_output=True, text=True)
   return result.stdout
+
+# --------------------- CODE --------------------
 
 def echo(update: Update, context) -> None:
     message = update.message
@@ -45,8 +37,6 @@ def echo(update: Update, context) -> None:
     if message.text == "Test 1":
       reply = "Success 1"
     # ----------------------------------------------------------
-    if reply == None:
-      help_count += 1
     bot = context.bot
     if reply != None:
       try:
@@ -63,15 +53,24 @@ if __name__ == "__main__":
     dispatcher = updater.dispatcher
     echo_handler = MessageHandler(filters.Filters.text, echo)
     dispatcher.add_handler(echo_handler)
-
     updater.start_polling()
     updater.idle()
-
 ```
-
 This script will simply reply "Success 1", when you send it "Test 1". Very simple. To create our own commands, use this format.
 ```
 if message.text == <desired_input>:
   reply = <desired_response>
 ```
 This script will only send the user something back nothing else.
+To create something more dangerous, we can create a command runner, this would let us remotely run a command on the computer hosting this script.
+```
+if message.text[:4] == "run ":
+  reply = run_command(message.text[3:])
+```
+It's that simple, but remember to define the `run_command()` function, heres one I use.
+```
+def run_shell_command(command):
+  result = subprocess.run(command, shell=True, capture_output=True, text=True)
+  return result.stdout
+```
+This function will run the command with bash and simply return the command line output.
