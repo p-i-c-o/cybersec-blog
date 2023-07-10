@@ -1,4 +1,4 @@
-## Recent Blog Posts
+## Blog Posts
 - [Telegram for Hackers](blog/telegram_python.md)
 
 ## Resources
